@@ -14,7 +14,7 @@ Motivated and enthusiastic **Frontend Developer (Beginner)**, currently learning
 
 **🎓 Education**
 
-• **Bachelor of Computer Applications (BCA)** – Currently Pursuing
+• **Bachelor of  Arts (BA)** 
 
 • **NavGurukul – School of Programming**
 Full Stack Web Development (Ongoing)
